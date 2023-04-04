@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Classwork\\UniversityApp\\UniversityApp.csproj": {}
+    "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework-4-Backend-\\Classwork\\UniversityApp\\UniversityApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Classwork\\UniversityApp\\UniversityApp.csproj": {
+    "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework-4-Backend-\\Classwork\\UniversityApp\\UniversityApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Classwork\\UniversityApp\\UniversityApp.csproj",
+        "projectUniqueName": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework-4-Backend-\\Classwork\\UniversityApp\\UniversityApp.csproj",
         "projectName": "UniversityApp",
-        "projectPath": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Classwork\\UniversityApp\\UniversityApp.csproj",
+        "projectPath": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework-4-Backend-\\Classwork\\UniversityApp\\UniversityApp.csproj",
         "packagesPath": "C:\\Users\\Maqsud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Classwork\\UniversityApp\\obj\\",
+        "outputPath": "C:\\Users\\Maqsud\\Desktop\\Homeworks\\Homework-4-Backend-\\Classwork\\UniversityApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maqsud\\AppData\\Roaming\\NuGet\\NuGet.Config",
